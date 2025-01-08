@@ -8,7 +8,6 @@ Welcome to the Assiut National University repository! This project is designed t
 
 Click the link below to explore the project's design on Figma:
 
-👉 [View Figma Design]([https://www.figma.com/file/your-design-link](https://www.figma.com/design/4dLYTAe9uBgXJkwBeKbpIZ/Assiut-National-University?node-id=0-1&p=f&t=NHCZeKvJpIb8m3lu-0))
-
+👉 [View Figma Design](https://www.figma.com/design/4dLYTAe9uBgXJkwBeKbpIZ/Assiut-National-University?node-id=0-1&p=f&t=NrXHD6z1iGJx9Gds-0)
 
 
